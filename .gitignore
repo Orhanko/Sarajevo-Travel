@@ -1,0 +1,24 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+**/build/
+
+# Android
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+*.so
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+*.dSYM
+*.ipa
+
+# Misc
+*.log
